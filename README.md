@@ -2,9 +2,9 @@
 
 ## LINKS
 
-Site is Deployed at [https://jaortisi6.github.io/Puppy-Party-Planner/](https://jaortisi6.github.io/Puppy-Party-Planner/)
+Site is Deployed at [https://www.jacobaf.com/Puppy-Party-Planner/](https://www.jacobaf.com/Puppy-Party-Planner/)
 
-Repository is located at [https://github.com/jaortisi6/Puppy-Party-Planner](https://github.com/jaortisi6/Puppy-Party-Planner)
+Repository is located at [https://github.com/jacob-af/Puppy-Party-Planner](https://jacob-af/Puppy-Party-Planner)
 
 ## SCREENSHOTS
 
@@ -59,4 +59,3 @@ Areas for further development include utilizing Google Maps API, to give user ne
 - Carly Peyton
 
 - Artwork by Megan Broski @melon.dreams
-
